@@ -1,3 +1,4 @@
+<pseudo-window @resize.passive="handleResize" />
 #output
 
 HTML and CSS
